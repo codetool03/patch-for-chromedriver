@@ -37,4 +37,4 @@ def patch_exe(executable_path):
         fh.write(file_bin)
     print("ok")
     return True
-patch_exe(r"D:\gpmdriver.exe")
+patch_exe(r"D:\chromedriver.exe")
